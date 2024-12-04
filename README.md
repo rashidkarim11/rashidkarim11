@@ -50,13 +50,13 @@
 <div align="center">
   <picture>
     <!-- Source for tablets with a width between 0 and 1024px -->
-    <source srcset="https://github-profile-trophy.vercel.app/?username=AlSirang&row=2&column=4&margin-h=15&margin-w=5&theme=dracula"
+    <source srcset="https://github-profile-trophy.vercel.app/?username=rashidkarim11&row=2&column=4&margin-h=15&margin-w=5&theme=dracula"
             media="(max-width: 1024px)">
     <!-- Source for desktop devices with a width of 1025px or more -->
-    <source srcset="https://github-profile-trophy.vercel.app/?username=AlSirang&row=1&column=7&margin-h=15&margin-w=5&theme=dracula"
+    <source srcset="https://github-profile-trophy.vercel.app/?username=rashidkarim11&row=1&column=7&margin-h=15&margin-w=5&theme=dracula"
             media="(min-width: 1025px)">
     <!-- Fallback image if the browser doesn't support the <picture> element -->
-    <img src="https://github-profile-trophy.vercel.app/?username=AlSirang&row=1&column=7&margin-h=15&margin-w=5&theme=dracula"
+    <img src="https://github-profile-trophy.vercel.app/?username=rashidkarim11&row=1&column=7&margin-h=15&margin-w=5&theme=dracula"
           alt="TROPHY">
   </picture>
 </div>

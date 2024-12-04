@@ -35,16 +35,14 @@
 </div>
 <br/>
 <hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=rashidkarim11&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=rashidkarim11&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidkarim11&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashidkarim11&count_private=true&theme=dracula"/>
+  <div align="center">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rashidkarim11&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dracula" height="200rem"/>
+    <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidkarim11&hide_progress=true&langs_count=12&hide_border=true&theme=dracula" height="200rem"/>
+  </div>
 </div>
-<br/><br/>
-<hr/>
+<br />
 <!--- trophy (start) -->
 <h2>🏆 <b>GitHub Trophies</b></h2>
 <div align="center">

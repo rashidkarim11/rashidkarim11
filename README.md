@@ -35,6 +35,7 @@
 </div>
 <br/>
 <hr/>
+<h2>🚀 <b>GitHub Statistics</b></h2>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashidkarim11&count_private=true&theme=dracula"/>
   <div align="center">

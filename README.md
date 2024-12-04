@@ -46,7 +46,7 @@
 <br />
 
 <!--- trophy (start) -->
-<h2>🏆 <b>GitHub Trophies</b></h2>
+<h2 align='center'>🏆 <b>GitHub Trophies</b></h2>
 <div align="center">
   <picture>
     <!-- Source for tablets with a width between 0 and 1024px -->

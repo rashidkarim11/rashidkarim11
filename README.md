@@ -45,6 +45,21 @@
 </div>
 <br/><br/>
 <hr/>
+<!--- trophy (start) -->
+<h2>🏆 <b>GitHub Trophies</b></h2>
+<div align="center">
+  <picture>
+    <!-- Source for tablets with a width between 0 and 1024px -->
+    <source srcset="https://github-profile-trophy.vercel.app/?username=rashidkarim11&row=2&column=4&margin-h=15&margin-w=5&theme=dracula"
+            media="(max-width: 1024px)">
+    <!-- Source for desktop devices with a width of 1025px or more -->
+    <source srcset="https://github-profile-trophy.vercel.app/?username=rashidkarim11&row=1&column=7&margin-h=15&margin-w=5&theme=dracula"
+            media="(min-width: 1025px)">
+    <!-- Fallback image if the browser doesn't support the <picture> element -->
+    <img src="https://github-profile-trophy.vercel.app/?username=rashidkarim11&row=1&column=7&margin-h=15&margin-w=5&theme=dracula"
+          alt="TROPHY">
+  </picture>
+</div>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>

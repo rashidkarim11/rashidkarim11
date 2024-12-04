@@ -34,7 +34,7 @@
     <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
 </div>
 <br/>
-<hr/>
+
 <h2 align="center">🚀 <b>GitHub Statistics</b></h2>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashidkarim11&count_private=true&theme=dracula"/>

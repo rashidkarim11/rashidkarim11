@@ -6,7 +6,7 @@
 <br/>
 <div align="center">
  
- 🔭 I’m currently working on **agent Taskflow**
+ 🔭 I’m currently working on **Agent Taskflow**
  
  🌱 I’m currently learning **Nodejs, Solidity, Typescript**
  💬 Ask me about **React, web3, nextjs,tailwind ... or anything**

@@ -2,11 +2,11 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rashid+Karim!;" />
 </h1>
-<h3 align="center">A passionate web3|React developer from Pakistan pa</h3>
+<h3 align="center">A passionate web3|React developer from Pakistan </h3>
 <br/>
 <div align="center">
  
- 🔭 I’m currently working on **Meal Plan coach app**
+ 🔭 I’m currently working on **agent Taskflow**
  
  🌱 I’m currently learning **Nodejs, Solidity, Typescript**
  💬 Ask me about **React, web3, nextjs,tailwind ... or anything**
